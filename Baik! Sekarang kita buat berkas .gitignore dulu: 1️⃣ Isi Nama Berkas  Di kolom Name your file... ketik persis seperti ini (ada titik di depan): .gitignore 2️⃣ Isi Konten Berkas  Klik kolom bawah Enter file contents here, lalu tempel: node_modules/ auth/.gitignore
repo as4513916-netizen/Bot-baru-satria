@@ -1,0 +1,7 @@
+node_modules/
+auth/
+*.mp4
+*.m4a
+*.mp3
+*.webm
+.DS_Store
